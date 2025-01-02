@@ -28,7 +28,7 @@ function Count() {
         -
       </button>
       <button type="button" on onClick={() => incrementamount(10)}>
-        increment
+        increment khhjkhkhk
       </button>
     </div>
   );
